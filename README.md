@@ -1,5 +1,5 @@
 Hi, I'm Peepersoak!
 
-I have been creating Minecraft Spigot/Paper plugin for the past 2 years.
+I have been creating Minecraft Spigot/Paper plugin for the past 3 years.
 
-I also have been working with Web App using MERN Stack for atleast a year now.
+I'm also a Full Stack Web Developer
